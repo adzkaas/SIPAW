@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200" viewBox="0 0 300 200" fill="none">
+  <rect width="300" height="200" fill="#E4E7E1"/>
+  <path d="M120 130L150 80L180 130H120Z" stroke="#225B47" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="#D8E2DC"/>
+  <path d="M150 130L165 105L185 130H150Z" fill="#225B47" opacity="0.3"/>
+  <circle cx="170" cy="70" r="10" fill="#CF6134"/>
+  <text x="150" y="165" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#69746E" text-anchor="middle">SIPAW WAPEALA</text>
+</svg>

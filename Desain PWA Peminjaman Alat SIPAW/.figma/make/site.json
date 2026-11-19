@@ -1,0 +1,10 @@
+{
+  "description": "Kelola inventaris alat WAPEALA, peminjaman, pengembalian, perawatan, dan laporan dalam satu aplikasi untuk pengurus logistik dan anggota.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
